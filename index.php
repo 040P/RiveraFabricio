@@ -24,22 +24,22 @@ include("marco-right.php");
   </div>
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
-                   <p class="eys-parrafo">Hola, yo soy Fabricio Rivera, estudiente de la carrera de Ingeniería en Tecnología de la Información 
-                    esmeraldeño que formandose desde su estudio hace 3 años en la Universidad Tecnica Luis Vargas Torres, mi anelo es seguir 
-                    aprendiando muchas cosas mas del mundo  de la Tencnología y aportar en un futuro cercano para el bien de la sociedad con mis conocimientos adquiridos a lo largo de mi estudio. 
+                   <p class="eys-parrafo">Hola, yo soy Fabricio Rivera, estudiante de la carrera de Ingeniería en Tecnología de la Información 
+                    esmeraldeño sigo formándome aun, mi estudio empecé hace 3 años en la Universidad Tecnica Luis Vargas Torres, mi anelo es seguir 
+                    aprendiando muchas cosas más en el mundo  de la Tencnología y asi aportar en un futuro cercano para la sociedad con mis conocimientos adquiridos a lo largo de mi estudio. 
 
                   </p>
-                   <p class="eys-parrafo">Desde mís estudios secundarios me llamo mucho el interes por las ciencias y la tecnología, quiezas quería saber con cierta exaptitud como funcionaban en 
+                   <p class="eys-parrafo">Desde mís estudios secundarios me llamo mucho el interes por las ciencias y la tecnología, quiezas quería saber con cierta exactitud como funcionaban en 
                     las tareas diarias que el hombre laboraba  y ver que capacidad que tiene estas 
-                    dos áres del conocimiento de dar solución a muchos probemas de la sociedad; es por eso que desde que termine mis estudios estudios secudarios, decidi estudiar una carrera de interes 
+                    dos áres del conocimiento de dar solución a muchos probemas de la sociedad; es por eso que desde que termine mis estudios estudios secudarios, decidí estudiar una carrera de interes 
                     en el mundo de la programación de computadoras. </p>
-<p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el segundo ciclo de universidad fue el <b><a href="https://es.wikipedia.org/wiki/C%2B%2B"> C++</a></b>  para este tiempo programabamos en el teléfono con un  emulador llamado termux ya que no contabamos con computadoras para ese entonces.</p>
+<p class="eys-parrafo"> El primer lenguaje con el cual empecé a programar en el segundo ciclo de universidad fue el <b><a href="https://es.wikipedia.org/wiki/C%2B%2B"> C++</a></b>  para ese tiempo programabamos en el teléfono con un  emulador llamado termux ya que no contabamos con computadoras para ese entonces.</p>
 
    <div id="blog-seccion2"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mis estudios</h2> 
     
-                   <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio llamodo antes  Experimental Luis Vargas Torres donde me gradue en el año 2011, de la especialidad de Físico-Matemático, en cuanto me gradue viaje a Riobamba para rendir una prueba e ingresar a la universidad y  seguir mis estudios universitarios 
+                   <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio antes llamado "Experimental Luis Vargas Torres" donde me gradue en el año 2011, de la especialidad de Físico-Matemático, en cuanto me gradue viaje a Riobamba para rendir una prueba e ingresar a la universidad y  seguir mis estudios universitarios 
                     en la Escuela Politécnica de Chimborazo donde me fue imposible el ingreso a la universidad, gracias a la otra oportunidad que se me brindo en la  UTELVT, he dedicado mi tiempo y lo sigo haciendo con el fin de formarme  profesionalmente .</p>
 
    <div id="blog-seccion3"  style="height: 50px;"></div>
@@ -65,7 +65,7 @@ include("marco-right.php");
                   </div>
 
                   <div style="width: 40%; float: right; text-align: right;">
-                   <a href="apendiendo-cpp">Programa para aprender C++ &#187;</a>
+                   <a href="apendiendo-cpp">Programa para aprender a programar &#187;</a>
                   </div>
 
                 </div>
