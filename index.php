@@ -12,7 +12,7 @@ include("marco-right.php");
    <div  style="width: 100%;">     
     <div style="width: 100%; height:100%; margin: auto ; display:inline-block;" >
        <div style=" width:100%; height: 100%; top:0; font-size:20px; text-align:center; float:left;">
-        	<h1>¿Quién es Rivera Fabricio?</h1>
+        	<h1>¿Quién es Fabricio Rivera?</h1>
        		 <hr>
              
           <div id="posteo" style="text-align: left; font-size:0.5vw;">
@@ -24,38 +24,36 @@ include("marco-right.php");
   </div>
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
-                   <p class="eys-parrafo">Hola, yo soy Fabricio Rivera, ingeniero esmeraldeño que labora desde hace 10 años en la Universidad Tecnica Luis Vargas Torres, 
-                    e impartido diferentes cátedras en la carrera de Tecnología de la Información entre las cuales esta Ingeniería de Software, Programación Web, Proyectos 
-                    informáticos entre otras; pero la cátedra en la que mejor me desempeño es la de Fundamentos de programación que se dicta en el primer ciclo de la carrera
-                    de Tecnología de la Información. </p>
-                   <p class="eys-parrafo">Desde mís estudios secundarios me he apacionado por las ciencias y la tecnología, quieza sería  por esta capacidad que tiene estas 
-                    dos áres del conocimiento de solucionar muchos probemas de la sociedad; es por eso que desde que termine mis estudios de ingeniería en la ESPOL, 
-                    me he dedicado a la programación de computadoras. </p>
-<p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el tercer ciclo de universidad fue el <b><a href="https://en.wikipedia.org/wiki/BASIC"> basic</a></b>  para este tiempo la ESPOL contaba con laboratorios de computadora  una computadora personal de marca IBM de tip XT modelo 5160  en es.</p>
+                   <p class="eys-parrafo">Hola, yo soy Fabricio Rivera, estudiente de la carrera de Ingeniería en Tecnología de la Información 
+                    esmeraldeño que formandose desde su estudio hace 3 años en la Universidad Tecnica Luis Vargas Torres, mi anelo es seguir 
+                    aprendiando muchas cosas mas del mundo  de la Tencnología y aportar en un futuro cercano para el bien de la sociedad con mis conocimientos adquiridos a lo largo de mi estudio. 
+
+                  </p>
+                   <p class="eys-parrafo">Desde mís estudios secundarios me llamo mucho el interes por las ciencias y la tecnología, quiezas quería saber con cierta exaptitud como funcionaban en 
+                    las tareas diarias que el hombre laboraba  y ver que capacidad que tiene estas 
+                    dos áres del conocimiento de dar solución a muchos probemas de la sociedad; es por eso que desde que termine mis estudios estudios secudarios, decidi estudiar una carrera de interes 
+                    en el mundo de la programación de computadoras. </p>
+<p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el segundo ciclo de universidad fue el <b><a href="https://es.wikipedia.org/wiki/C%2B%2B"> C++</a></b>  para este tiempo programabamos en el teléfono con un  emulador llamado termux ya que no contabamos con computadoras para ese entonces.</p>
 
    <div id="blog-seccion2"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mis estudios</h2> 
     
+                   <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio llamodo antes  Experimental Luis Vargas Torres donde me gradue en el año 2011, de la especialidad de Físico-Matemático, en cuanto me gradue viaje a Riobamba para rendir una prueba e ingresar a la universidad y  seguir mis estudios universitarios 
+                    en la Escuela Politécnica de Chimborazo donde me fue imposible el ingreso a la universidad, gracias a la otra oportunidad que se me brindo en la  UTELVT, he dedicado mi tiempo y lo sigo haciendo con el fin de formarme  profesionalmente .</p>
 
-
-                   <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio Fisco-Misional Sagado Corazon donde me gradue en el año 1989, de la especialidad de Físico-Matemático, apenas me gradue viaje a Guayaquil para seguir mis estudios universitarios en la Escuela Superior Politécnica del Litoral donde seguí la carrera de Ingeniería en Computación, gracias a la demanda que exitía en este tiempo de este tipo de profesionales comencé a trabajar mientra estaba estudiando, prestando mis servicios profesionales en empresas como Poligráfica, El telegráfo, Intecorsorcio; mientras trabajaba en esta última logré obtener mi título de Ingeniero de Computación.</p>
-                   <p class="eys-parrafo">Ya con el título en la mano decidi regrasar a mi tierra Esmeraldas, con la finalidad de aplicar los conocimiento y habilidades obtenida por lo que forme la empresa EDUCAYSOFT, pero como los ingreso no fueron suficiente entre a trabajar al colegio Eloy Alfaro y posteiormente a la Universidad Técnica Luis Vargas Torres donde actualmente laboró.</p>
-<p class="eys-parrafo"> Por las exigencias de la universidad, ingresar a la maestria de docencia y desarrollo del curriculo, de la cual de grauduo obteniendo el título de Magister, pero despues realice otra maestría en la POLITECNICA, de Ciencias de la Computación.</p>
    <div id="blog-seccion3"  style="height: 50px;"></div>
 
-    <h2 style="border-bottom: 1px solid green;"> Mi perfil informático</h2> 
-    
-
-
-                   <p  class="eys-parrafo">Mi perfil tecnológico es la programación de computadoras, mi primer programa lo hice en el leguaje Basic, utilizando el computador de la espol, luego programe c++, donde realiza algunos programa que leina el entregas del puerto serial y enviaban señales a un motor. Profesionalmente comenza programando en Informix un lenguaje de programación para el sistema Unix, utilizando uan versio de foxpro para unix, luego cuando aparecio la interface gráfica programe en foxpro y seguidamente visual foro.</p> 
-                   <p  class="eys-parrafo">Hoy en día creso sisemas web combinando HTML, CSS, JavaScrip y PHP; tambien aplicaciones para dispositivo androi para lo cual utilizo el framework android Studio, el cual utiliza el lenguaje de JAVA.</p>
+    <h2 style="border-bottom: 1px solid green;"> Mi perfil informático</h2>     
+                   <p  class="eys-parrafo">Mi perfil tecnológico es la programación de computadoras, mi primer programa lo hice en el leguaje C++, utilizando mi propio computador, un pequeño Sistema de Facturacion e Inventario.</p> 
+                   <p  class="eys-parrafo">Hoy en día sigo aprendiendo a programar aplicaciones web combinando HTML, CSS, JavaScrip,PHP y Java.</p>
    <div id="blog-seccion4"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mis Hooby</h2> 
     
 
-                   <p   class="eys-parrafo">Soy amante a la lectura, así que en los ratos libres me encanta actualizar mis conocimientos leyendo manuales de los leguajes de progración que namejo, y tambien muchos noticias de las ultimas tendencias en tecnología.</p>
+                   <p   class="eys-parrafo">Me gusta la lectura, así que en los ratos libres me encanta actualizar mis conocimientos leyendo manuales de los leguajes de progración que namejo, y tambien muchos noticias de las ultimas tendencias en tecnología.</p>
+                   <p   class="eys-parrafo"> </p>
        
 
                    
@@ -87,7 +85,7 @@ include("marco-left.php")
 
  document.title="Stalin"; 
 document.getElementById("foto").src="./images/stalin.png";
-document.getElementById("elnombre").innerHTML="Stalin Francis";
+document.getElementById("elnombre").innerHTML="Fabricio Rivera";
 
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";
 

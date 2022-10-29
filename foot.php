@@ -23,7 +23,7 @@
 
 		            		    <ul style="margin:0; padding:0;" class="copyright">
                             <li><a href="http://educaysoft.org/educaysoft/index.php">EDUCAYSOFT</a></li>
-                            <li>&copy; Francis Quinde Stalin Adalberto--</li>
+                            <li>&copy; Rivera Tapuyo Pablo Fabricio</li>
                             <li>Design: <a href="//html5up.net">HTML5 UP</a></li>
                         </ul>
             </div>
